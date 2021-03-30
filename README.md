@@ -16,3 +16,4 @@ screenshot:
 
 
 Please subscribe to [xZyn](https://www.youtube.com/xzynn) on YouTube if this project helped you.
+This project is powered by [Snowflake API](https://api.snowflakedev.xyz/) by [@Snowflake107](https://github.com/Snowflake107)
