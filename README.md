@@ -3,8 +3,10 @@
 
 
 1.) **Just download this repository as zip**
-2.) **Edit the config.js file**
-3. **Run the .bat file**
+
+3.) **Edit the config.js file**
+
+5. **Run the .bat file**
 
 
 and that's it!
