@@ -2,11 +2,9 @@
 # You can make your own talking chatbot using these files
 
 
-1.) **Just download this repository as zip**
-
-3.) **Edit the config.js file**
-
-5. **Run the .bat file**
+1. **Just download this repository as zip**
+2. **Edit the config.js file**
+3. **Run the .bat file**
 
 
 and that's it!
