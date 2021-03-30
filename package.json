@@ -1,0 +1,24 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "description": "Custom AI Chatbot For Your Discord Bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxzyn/Custom-AI-Discord-Chatbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord"
+  ],
+  "author": "zyn#1959",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxzyn/Custom-AI-Discord-Chatbot/issues"
+  },
+  "homepage": "https://github.com/xxzyn/Custom-AI-Discord-Chatbot#readme"
+}
