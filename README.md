@@ -1,5 +1,5 @@
-# Custom-AI-Discord-Chatbot
-# You can make your own talking chatbot using these files
+# Custom AI Chatbot For Discord
+# Make your bot *ALIVE* using this chatbot
 
 
 1. **Just download this repository as zip**
