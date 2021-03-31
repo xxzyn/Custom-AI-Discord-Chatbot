@@ -10,7 +10,8 @@ Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** ins
 3. After that you can just delete **Install-modules.bat** when the CMD window closes.
 4. Edit the **config.js** file.
 5. Ensure that you have put your **TOKEN**, **CHANNEL ID**, and **BOT NAME** in the file.
-6. Run the **run.bat** file.
+6. Get your **API KEY** for the chatbot from [here](https://api.snowflakedev.xyz/)
+7. Run the **run.bat** file.
 
 and that's it!
 
