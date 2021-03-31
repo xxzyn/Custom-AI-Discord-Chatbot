@@ -1,6 +1,8 @@
 # Custom AI Chatbot For Discord
 # Make your bot *ALIVE* using this chatbot
 
+Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** installed.
+
 
 1. **Just download this repository as zip**
 2. Run **Install-modules.bat** to install the necessary modules for the project. This should create a folder called **Node Modules**.
