@@ -18,6 +18,6 @@ screenshot:
 ![image](https://user-images.githubusercontent.com/49114258/113037195-c4fc3000-91b2-11eb-823b-d54fef199871.png)
 
 
-Please subscribe to [xZyn](https://www.youtube.com/xzynn?sub_confirmation=1) on YouTube if this project helped you.
+Please subscribe to [xZyn](https://www.youtube.com/xzynn?sub_confirmation=1) on YouTube if this helped you out.
 
 This project is powered by [Snowflake API](https://api.snowflakedev.xyz/) by [@Snowflake107](https://github.com/Snowflake107)
