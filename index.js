@@ -11,7 +11,7 @@ client.on("message", (message) => {
     if (message.channel.id === config.channelid) {
     const fetch = require("node-fetch").default;
                      
-    fetch(`https://api.snowflakedev.xyz/api/chatbot?message=${encodeURIComponent(message.content)}&name=${config.botname}`, {
+    fetch(`https://api2.snowflakedev.xyz/api/chatbot?message=${encodeURIComponent(message.content)}&name=${config.botname}&gender=${config.gender}`, {
         headers: {
             "Authorization": config.authorization
         }
